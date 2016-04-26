@@ -1,0 +1,4 @@
+LycheeClientPortal.Droid.MainActivity, LycheeClientPortal.Droid;md55f30df1e63a191b0d99092ae89712ea8.MainActivity
+LycheeClientPortal.Droid.MainActivity, LycheeClientPortal.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md55f30df1e63a191b0d99092ae89712ea8.MainActivity
+LycheeClientPortal.Droid.MainActivity;md55f30df1e63a191b0d99092ae89712ea8.MainActivity
+lycheeclientportal.droid.MainActivity;md55f30df1e63a191b0d99092ae89712ea8.MainActivity
